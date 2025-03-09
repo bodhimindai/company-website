@@ -17,7 +17,7 @@ export default function Hero() {
           The Future of AI-Powered 
           Decision Intelligence 
         </h1>
-        <p className="text-xl md:text-2xl text-gray-500 mb-8 max-w-3xl mx-auto animate-fade-in-up">
+        <p className="text-xl md:text-2xl text-gray-500 mb-8 max-w-xl mx-auto animate-fade-in-up">
           Let AI agents help you make smarter decisions and streamline your workflow.
         </p>
         <div className="flex justify-center space-x-4 animate-fade-in">
