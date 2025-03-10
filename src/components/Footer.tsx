@@ -43,7 +43,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  to="#"
+                  to="https://drive.google.com/file/d/1hKvbTSBZDoNRwUOONZ0Ki3aP_79gi5ls/view"
                   className="text-white hover:text-[#3399ff] transition-colors"
                 >
                   Privacy Policy
