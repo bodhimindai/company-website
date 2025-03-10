@@ -23,7 +23,7 @@ export default function Hero() {
         <div className="flex justify-center space-x-4 animate-fade-in">
           <Link
             to="/contact"
-            className="bg-white text-black px-4 py-2 font-semibold hover:bg-gray-200 transition-colors duration-300 flex items-center"
+            className="bg-white text-black px-4 py-2 font-semibold hover:bg-gray-200 transition-colors duration-300 flex items-center rounded-md shadow-md"
           >
             <p className="text-xl md:text-2xl text-gray-900 animate-fade-in-up">
               Contact us

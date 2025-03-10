@@ -14,8 +14,8 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <Link to="/">
-              <div className="flex items-center space-x-2 space-y-4">
+          <Link to="/">
+              <div className="flex items-center space-x-2">
                 <img
                   className="h-8 w-8"
                   alt="company-logo"
@@ -39,6 +39,14 @@ export default function Footer() {
                   className="text-white hover:text-[#3399ff] transition-colors"
                 >
                   Contact
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="#"
+                  className="text-white hover:text-[#3399ff] transition-colors"
+                >
+                  Privacy Policy
                 </Link>
               </li>
             </ul>

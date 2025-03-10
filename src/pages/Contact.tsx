@@ -100,7 +100,7 @@ export default function Contact() {
               Contact Us
             </h1>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Get in touch with us to partner, discuss ideas, and shape the future of AI-driven decision making!
+              Get in touch with us to get to know us, discuss ideas, and shape the future of AI-driven decision making!
             </p>
           </div>
 
@@ -184,7 +184,7 @@ export default function Contact() {
                 </div>
                 <button
                   type="submit"
-                  className="w-full bg-[#eba569] text-white py-3 rounded-lg hover:bg-gray-800 transition-colors duration-300"
+                  className="w-full bg-[#eba569] text-white py-3 rounded-lg hover:bg-[#e0791f] transition-colors duration-300"
                 >
                   Send Message
                 </button>
